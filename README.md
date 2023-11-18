@@ -1,7 +1,14 @@
 ### Hi there, I'm Alexander
-- 🔭 I’m currently studying on data-science course
-- 🌱 I’m currently learning how machine learning is working
-- 👯 I’m looking to collaborate on ...
+
+I have a specialized secondary education in the field of IT
+At the moment I am taking a course on artificial intelligence development.
+
+I know how LANs are organized and how to work with them.
+I have basic knowledge of Java and JavaScript programming
+
+This profile has just been created and will be populated as time goes on
+
+
 
 
 <!--
