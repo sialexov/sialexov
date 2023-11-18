@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Alexander
+- 🔭 I’m currently studying on data-science course
+- 🌱 I’m currently learning how machine learning is working
+- 👯 I’m looking to collaborate on ...
+
 
 <!--
 **sialexov/sialexov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
